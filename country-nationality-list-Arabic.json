@@ -1,6 +1,6 @@
 {
   
-  "nationalities": [
+  "list": [
     {
       "id": 0,
       "dial_code": "00966",
@@ -290,7 +290,7 @@
     },
     {
       "id": 41,
-      "dial_code": "00MV",
+      "dial_code": "00960",
       "country_name": "جزر المالديف",
       "nationality_name": "مالديفي",
       "code": "MV"
@@ -1074,7 +1074,7 @@
     },
     {
       "id": 153,
-      "dial_code": "00",
+      "dial_code": "0047",
       "country_name": "النرويج",
       "nationality_name": "نرويجي",
       "code": "NO"
